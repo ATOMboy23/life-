@@ -1,0 +1,25 @@
+<html>
+<head><title> Life</title>
+<style>
+<style> 
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: Life;
+  animation-duration: 10;
+  animation-iteration-count: 3;
+}
+
+@keyframes Life 
+ 0% from {background-color;Green;
+  to {background-color: Blue;
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
+</style>
+</head>
+<body>
+<h1> LIFE</h1><br> <p> Life is an extraordinary thing</p>
+</body>
+</html>
